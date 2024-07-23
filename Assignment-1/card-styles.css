@@ -1,0 +1,125 @@
+.main {
+    margin: 10px auto;
+    width: 582px;
+    justify-content: center;
+}
+
+.card-1 {
+    border-radius: 11px;
+    background-color: #1DE592;
+    padding: 80px;
+    margin: 10px;
+    height: 350px;
+}
+
+.btn-ideas {
+    padding: 15px 45px;
+    font-size: 19px;
+    font-family: sans-serif;
+    font-weight: 700;
+    border-radius: 30px;
+    border: none;
+    background: #ffffff;
+}
+
+.business {
+    width: 10px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 46px;
+}
+
+.card-2 {
+    border-radius: 12px;
+    border: 1px solid lightgrey;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin: 25px 10px;
+}
+
+.card2-img {
+    border-radius: 65px;
+    width: 100px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.profile-heading {
+    font-weight: lighter;
+    font-size: 35px;
+}
+
+.profile-bottom {
+    border: 1px solid lightgray;
+    padding: 25px 40px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+}
+
+.profile-top {
+    padding: 20px 40px;
+}
+
+.card-3{
+    border: 1px solid lightgray;
+    border-radius: 16px;
+    font-family: sans-serif;
+    margin: 25px 10px;
+}
+.card3-img{
+    width: 100%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.card3-body{
+    padding: 20px;
+}
+.card3-btn{
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 16px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: blue;
+    font-weight: 600;
+}
+.logo{
+    width: 25px;
+    padding-right: 10px;
+}
+.card3-para {
+    padding: 10px;
+    font-size: 26px;
+    color: gray;
+}
+
+.card-4{
+    border-radius: 16px;
+    font-family: sans-serif;
+    margin: 25px 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 8px;
+}
+.card4-logo {
+    width: 100px;
+}
+.card4-input{
+    width: 50%;
+    margin: 15px;
+    /* margin-bottom: 10px; */
+    padding: 17px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    border-radius: 12px;
+}
+.card4-login-btn{
+    width: 67%;
+    box-sizing: border-box;
+    background-color: black;
+    border: none;
+    padding: 16px;
+    color: white;
+    border-radius: 27px;
+}
+
